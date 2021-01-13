@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.image-one{
+  background-image: url("images/bridal-glory.jpeg");
+}
+.image-two{
+  background-image: url("images/good-morning.jpeg")
+}
+.image-three{
+  background-image: url("images/Early-bloom.jpeg");
+}
+.image-four{
+  background-image: url("images/assorted-happiness.jpeg");
+}
+.image-five{
+  background-image: url("images/wild-roses.jpeg");
+}
